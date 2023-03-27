@@ -1,0 +1,275 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url('image/ramm/ramm.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+a{
+    padding: 2px;
+    margin: 0;
+    text-decoration: none;border-right: #156ee2;
+
+}
+
+.first
+
+{
+    background-image: url("https://b.zmtcdn.com/mx-onboarding-hero87f77501659a5656cad54d98e72bf0d81627911821.webp");
+    background-color:black;
+    height: 450px;
+    background-size: no-repeat;
+    background-size: cover;
+    
+}
+.nav{
+    float: right;
+    height: 20px;
+    width: 350px;
+    margin: 50px 100px 0px 0px ;
+    /* background-color:aliceblue   ; */
+    /* color: white; */
+}
+.ztname{
+    /* background-color: violet; */
+    /* height: 100px ; */
+    /* float: right; */
+    /* height: 20px;
+    width: 325px; */
+    width: 500px ;
+    /* font-size: 10px ; */
+    float: left;
+    margin: 50px 0px 0px 340px  ;
+    /* margin: 0px 200px 430px 400px ; */
+    /* margin: 0px 500px 0px 0px ; */
+    /* margin: 0px;
+    padding: 100px; */
+
+}
+.ztname1{
+    background-color: aqua;
+    color: white;
+    width: 500px ;
+    font-size: 40px ;
+    float: left;
+    margin: 100px 900px 100px 350px  ;
+    padding: 2px;
+
+}
+.search{
+    width: 500px;
+    height: 50px;
+}
+.main{
+    /* background-color: coral; */
+    /* background-image: url('https://storage.googleapis.com/5paisa-prod-storage/files/2022-04/image_5_7.jpg'); */
+    height: 1000px;
+}
+.main1{
+    /* background-color: aqua; */
+    width: 500px;
+    height: 200px;
+    float: left;
+    margin: 50px 0px 0px 100px ;
+}
+.main1-1{
+    /* background-color: #156ee2; */
+    width: 500px;
+    height: 50px;
+    margin: 0px 0px 0px 0px ;
+    /* border: 5px solid red; */
+ 
+
+}
+.main2{
+    /* background-color: violet; */
+    width: 500px;
+    height: 200px;
+    float: right;
+    margin: 50px 100px 0px 0px ;
+}
+.main2-1{
+    /* background-color: #156ee2; */
+    width: 500px;
+    height: 50px;
+    margin: 0px 0px 0px 0px ;
+
+}
+.collections{
+    /* background-color: beige; */
+    float: left;
+    margin: 100px 0px 0px 100px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+}
+.collections1{
+    /* background-color:red; */
+    float: right;
+    margin: 10px 500px 0px 10px;
+    font: size: 50px;
+    width: 620px;
+    height: 30px;
+}
+
+.part1{
+    background-image: url(' https://assets.traveltriangle.com/blog/wp-content/uploads/2020/01/Nirvana_7-jan.jpg');
+    /* background-color: green; */
+    width: 230px;
+    height: 300px;
+    float: left;
+    margin: 20px 0px 0px 150px ;
+}
+.part1-1{
+    margin: 266px 0px 0px 10px ;
+    color: white;
+    /* color:black; */
+    align-content: center;
+
+  
+}
+.part2{
+    /* background-color:green; */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiU4WQUKEoYk8MfICwaxV8mHv-gw4syw2SxA&usqp=CAU');
+    /* background-repeat: no-repeat; */
+    width: 230px;
+    height: 300px;
+    float: left;
+    margin: 20px 0px 0px 20px ;
+}
+.part2-2{
+    margin: 273px 0px 0px 20px ;
+    color: white;
+    /* color:black; */
+    align-content: center;
+}
+.part3{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Awadhi_jalebi.jpg/640px-Awadhi_jalebi.jpg');
+    /* background-color:green; */
+    background-repeat: no-repeat;
+    width: 230px;
+    height: 300px;
+    float: left;
+    margin: 20px 0px 0px 20px ;
+}
+.part3-3{
+    margin: 273px 0px 0px 50px ;
+    color: white;
+    /* color:black; */
+    align-content: center;
+}
+.part4{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFiftb4MVuaPPzEQx4je2Cy6Bs0D3h5t6Hww&usqp=CAU');
+    /* background-color:green; */
+    width: 230px;
+    height: 300px;
+    float: left;
+    margin: 20px 0px 0px 20px ;
+}
+.part4-4{
+    margin: 250px 0px 0px 0px ;
+    color: white;
+    /* color:black; */
+    align-content: center;
+}
+
+.footer{
+    /* background-color: aqua; */
+    height: 450px;
+    /* margin: 1000px 0px 0px 0px ; */
+}
+ .footer1{
+    /* background-color: beige; */
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin: 30px 0px 0px 100px ;
+    font-size:  25px ;
+ }
+
+ .footer2{
+    /* background-color: beige; */
+    height: 20px;
+    width: 150px;
+    float: right;
+    margin: 30px 100px 0px 0px ;
+    /* font-size:30 ; */
+ }
+ .footer2-1{
+    float: left;
+    /* width: 50px; 
+    height: 10px;
+    padding: 10px; */
+    /* margin:1px 0px 0px 10px ; */
+    margin: 0px;
+ }
+ .footer2-2{
+    float: right;
+    /* width: 50px; 
+    height: 10px;
+    padding: 10px; */
+    /* margin: 1px 10px 0px 10px ; */
+    margin: 0px;
+    
+ }
+ /* .div{
+    background-color: chartreuse;
+    width: 800px;
+    height: 200px ;
+    margin: 100px 0px 0px 0px ;
+ } */
+
+ .div1{
+    /* background-color: chartreuse; */
+    width: 200px;
+    height:250px ;
+    float: left;
+    margin: 150px 0px 0px 0px ;
+    /* padding: 50px ; */
+ }
+
+ 
+ .div2{
+    /* background-color: chartreuse; */
+    width: 200px;
+    height:200px ;
+    float: left;
+    margin: 150px 0px 0px 50px ;
+ }
+
+ .div3{
+    /* background-color: chartreuse; */
+    width: 200px;
+    height:200px ;
+    float: left;
+    margin: 150px 0px 0px 50px ;
+ }
+
+ .div4{
+    /* background-color: chartreuse; */
+    width: 200px;
+    height:200px ;
+    float: left;
+    margin: 100px 0px 0px 50px ;
+ }
+ .div5{
+    /* background-color: chartreuse; */
+    width: 200px;
+    height:200px ;
+    float: left;
+    margin: 100px 0px 0px 50px ;
+ }
+ 
+ /* .last{
+    /* background-color: black; */
+    color: white;
+    width: 100px ;
+    /* padding: 0px ; */
+    height: 200px ;
+    margin: 0px 1000px 0px 1000px ;
+    /* padding: 500px 0px 0px 0px  ; */
+ } */
